@@ -10,7 +10,7 @@ This project was developed with java.
 To execute this project you just have to run the "FMFinal.jar" file. 
 For more information access https://youtu.be/e8RLdQJrdrg.
 
-# Althors
+# Authors
 - Kelvin Guilherme de Oliveira: github.com/kelvin-oliveira
 - Lucas Yudi Sugi: github.com/LucasSugi
 - Mauricio Caetano da Silva: github.com/mauricioCS
